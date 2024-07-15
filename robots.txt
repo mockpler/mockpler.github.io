@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mockpler.github.io/sitemap
+Sitemap: https://mockpler.github.io/app/sitemap
+Sitemap: https://mockpler.github.io/assets/sitemap
+Sitemap: https://mockpler.github.io/css/sitemap
+Sitemap: https://mockpler.github.io/includes/sitemap
+Sitemap: https://mockpler.github.io/item/sitemap
+Sitemap: https://mockpler.github.io/src/sitemap
